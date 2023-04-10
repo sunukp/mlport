@@ -6,7 +6,7 @@ The notebook provides the following context of the problem to be solved:
 
 Data for 5 types of coupons were provided. These were for Coffee Houses, Affordable Restaurants (price < $20), More expensive Restaurants ($20-50), Bars, and Take Outs. 
 
-Approximately 56.9% of all coupons are accepted by drivers. Here we analyze coupons for Bars and Coffee Houses in the Jupyter notebook [coupon_analysis.ipynb]().
+Approximately 56.9% of all coupons are accepted by drivers. Here we analyze coupons for Bars and Coffee Houses in the Jupyter notebook [coupon_analysis.ipynb](https://github.com/sunukp/mlport/blob/main/coupon_analysis.ipynb).
 
 
 ## Summary of Findings
